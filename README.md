@@ -10,7 +10,7 @@ I love playing computer games and fixing tech things. I'm a PC enthusiast and a 
 - 🌱 I’m currently learning [React].
 
 ## 🔗 Contact with Me
-- 📩 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)]vmmateev@gmail.com
+- 📩 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)] vmmateev@gmail.com
 - 💼 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/velizarmateev/)
 - 🗄️ [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/vmmateev)
 
