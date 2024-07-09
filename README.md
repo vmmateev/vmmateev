@@ -18,6 +18,7 @@ I love playing computer games and fixing tech things. I'm a PC enthusiast and a 
 - **Programming Languages ,Frameworks & Libraries**
 
 <code><img height="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
+<code><img height="40" src="https://seeklogo.com/images/A/ASP_NET-logo-33FF43AF35-seeklogo.com.png"></code>
 <code><img height="40" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"></code>
 <code><img height="40" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"></code>
 <code><img height="40" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"></code>
