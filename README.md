@@ -10,13 +10,14 @@ I love playing computer games and fixing tech things. I'm a PC enthusiast and a 
 - 🔭 I’m currently working on [CryptoNews] project as a bootcamp.
 - 🌱 I’m currently learning [React].
 
-## 🔗 Connect with Me
-- 📩 How to contact me: [v.m.mateev@gmail.com].
+## 🔗 Contact with Me
+- 📩 [![Email](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiz9y7V-ahJJEVKKiHnJZMInt-4mOL-dHgOQ&s)](vmmateev@gmail.com)
 - 💼 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/velizarmateev/)
 - 🗄️ [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/vmmateev)
 
 ## 🛠️ Skills
 - **Programming Languages ,Frameworks & Libraries**
+
 <code><img height="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
 <code><img height="40" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"></code>
 <code><img height="40" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"></code>
