@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Velizar! Here's a glimpse into my programming journey!
+x# Hello there 👋, I'm Velizar! Here's a glimpse into my programming journey!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vmmateev&color=blue)
 
@@ -7,7 +7,11 @@
 I love playing computer games and fixing tech things. I'm a PC enthusiast and a tech guy by day, and a gamer by night. This blend of passions keeps me motivated and constantly learning. Now, I want to add coding skills to fulfill the tech stack.
 
 - 🔭 I’m currently working on [CryptoNews] project as a bootcamp.
-- 🌱 I’m currently learning [React].
+- 🌱 I’m currently learning [React<code><img height="15" src="https://img.icons8.com/?size=100&id=VXQrhy9fWtm1&format=png&color=000000"></code>]
+  
+## 🌟My Projects
+- [Fiscal-Info App](https://fiscalinfo.azurewebsites.net/) - Storing different information about petrol station fiscal systems needed for servicing their POS systems
+- 🚧 [CryptoNews](https://github.com/CryptoWorldLtd/) - 🚧 [InProgress] - Information site with various news about crypto!
 
 ## 🔗 Contact with Me
 - 📩 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:vmmateev@gmail.com)
@@ -39,10 +43,7 @@ I love playing computer games and fixing tech things. I'm a PC enthusiast and a 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vmmateev&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vmmateev&layout=compact&theme=radical)
 
-## 🌟 Projects
 
-- [Fiscal-Info App](https://fiscalinfo.azurewebsites.net/) - Storing different information about petrol station fiscal systems needed for servicing their POS systems
-- 🚧 [CryptoNews](https://github.com/CryptoWorldLtd/) - 🚧 [InProgress] - Information site with various news about crypto!
 <!--
 **vmmateev/vmmateev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
