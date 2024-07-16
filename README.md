@@ -1,7 +1,6 @@
 x# Hello there 👋, I'm Velizar! Here's a glimpse into my programming journey!
 
-![Profile Views](https://komarev.com/ghpvc/?username=vmmateev&color=blue)
-
+[![](https://visitcount.itsvg.in/api?id=vmmateev&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 ## 👨‍💻 About Me
 
 I love playing computer games and fixing tech things. I'm a PC enthusiast and a tech guy by day, and a gamer by night. This blend of passions keeps me motivated and constantly learning. Now, I want to add coding skills to fulfill the tech stack.
